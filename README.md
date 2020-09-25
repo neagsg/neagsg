@@ -3,7 +3,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@neagzinho-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/neagzinho)](https://twitter.com/neagzinho) [![Linkedin Badge](https://img.shields.io/badge/-Gean-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gean-sg-7a6041193/)](https://www.linkedin.com/in/gean-sg-7a6041193/) [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:geansg4@gmail.com)](mailto:geansg4@gmail.com)
 
-<p>Apaixonado por tecnologias, sempre buscado aprender novas tecnologias. Amo programação, a resolução de problemas é algo que me deixar fascinado e feliz ao mesmo tempo.</p>
+<p>Apaixonado por tecnologias, sempre buscando aprender novas tecnologias. Amo programação, a resolução de problemas é algo que me deixa fascinado e feliz ao mesmo tempo. :satisfied:</p>
 <br />
 <br />
 
@@ -19,7 +19,7 @@
 <br />
 
 
-### 🛠 Formação acadêmica
+### :mortar_board: Formação acadêmica
 
 - Análise e Desenvolvimento de Sistema (Cursando 6/2018 à 6/2021)
 
