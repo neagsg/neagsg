@@ -1,16 +1,33 @@
-### Hi there 👋
+<h1>Gean Gomes</h1>
+<br />
 
-<!--
-**neagsg/neagsg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter Badge](https://img.shields.io/badge/-@neagzinho-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/neagzinho)](https://twitter.com/neagzinho) [![Linkedin Badge](https://img.shields.io/badge/-Gean-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gean-sg-7a6041193/)](https://www.linkedin.com/in/gean-sg-7a6041193/) [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:geansg4@gmail.com)](mailto:geansg4@gmail.com)
 
-Here are some ideas to get you started:
+<p>Apaixonado por tecnologias, sempre buscado aprender novas tecnologias. Amo programação, a resolução de problemas é algo que me deixar fascinado e feliz ao mesmo tempo.</p>
+<br />
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="center">
+<img src="https://img.shields.io/badge/Programador-Gean%20Gomes-%2300baf2?style=for-the-badge&logo=ghostery"/>
+</p>
+
+<h4 align="center"> 
+	🚧 Sempre em constante desenvolvimento...  🚧
+</h4>
+<br />
+<br />
+
+
+### 🛠 Formação acadêmica
+
+- Análise e Desenvolvimento de Sistema (Cursando 6/2018 à 6/2021)
+
+### 🛠 Tecnologias
+
+- [Node.js](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+- [React Native](https://reactnative.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [JavaScript](https://www.javascript.com/)
+ 
