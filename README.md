@@ -21,7 +21,7 @@
 
 ### :mortar_board: Formação acadêmica
 
-- Análise e Desenvolvimento de Sistema (Cursando 6/2018 à 6/2021)
+- Análise e Desenvolvimento de Sistema
 
 ### 🛠 Tecnologias
 
